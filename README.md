@@ -8,7 +8,7 @@
 
 Ever imagined building your own app or digital platform without diving deep into complex coding? With GA_Universe, that dream is closer than you think. Tailored for the bright minds of Saudi Arabia, our state-of-the-art low/no code development platform transforms your innovative ideas into reality through a simple drag-and-drop experience. Read more on [GA-Universe](https://www.ga-universe.com).
   
-<a href="https://43578905.fs1.hubspotusercontent-na1.net/hubfs/43578905/GA%204.mp4"><img src="https://ga-universe.com/hs-fs/hubfs/about-8-1.png?width=3962&height=2160&name=about-8-1.png" alt="Thumbnail" width="100%"></a>
+<a href="https://43578905.fs1.hubspotusercontent-na1.net/hubfs/43578905/GA%204.mp4"><img src="https://github.com/gauniverseorg/.github/blob/master/ga-universe-video-image.png" alt="Thumbnail" width="100%"></a>
 
 ## Installation
 There are two ways to start using GA-Universe:

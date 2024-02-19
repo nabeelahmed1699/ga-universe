@@ -8,7 +8,7 @@ Thank you for your interest in GA_Universe and for your willingness to contribut
 There are numerous ways you can contribute to GA_Universe.
 
 #### 🐛 Spot a bug
-You can use the GitHub Issues to report any encountered issues [Spot a bug](https://github.com/appsmithorg/appsmith/issues/new?assignees=Nikhil-Nandagopal&labels=Bug%2CNeeds+Triaging&template=--bug-report.yaml&title=%5BBug%5D%3A+) template.
+You can use the GitHub Issues to report any encountered issues [Spot a bug](https://github.com/gauniverseorg/ga-universe/issues/new?assignees=arsumelahi21&labels=Bug%2CNeeds+Triaging&projects=&template=--bug-report.yml&title=[Bug]%3A+) template.
 To expedite resolution, please review the template and provide all requested information.
 
 #### 🛠 Share your feature ideas with us

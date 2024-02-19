@@ -1,10 +1,10 @@
 name: 🐞 Bug report
-description: Create a bug report to help us improve Appsmith
+description: Create a bug report to help us improve GA_Universe
 title: "[Bug]: "
 labels: [Bug, Needs Triaging]
 assignees:
-- Nikhil-Nandagopal
-- pranavkanade
+- arsumelahi21
+
 body:
 - type: markdown
   attributes:
@@ -42,7 +42,7 @@ body:
   attributes:
     label: Public Sample App
     description: "Share a public sample application that reproduces the bug using our mock databases if possible"
-    placeholder: "https://app.appsmith.com/applications/61e022f1eb0501052b9fa205/pages/61e02308eb0501052b9fa20c"
+    placeholder: "https://beta.ga-universe.com/"
   validations:
     required: false
 - type: dropdown
@@ -68,7 +68,7 @@ body:
   id: version
   attributes:
     label: Version
-    description: "The version of your Appsmith Instance"
-    placeholder: "Cloud / Self Hosted - 1.6.6"
+    description: "The version of your GA_Universe Instance"
+    placeholder: "Cloud / Self Hosted - 1.0.0"
   validations:
     required: true

@@ -12,7 +12,7 @@ You can use the GitHub Issues to report any encountered issues [Spot a bug](http
 To expedite resolution, please review the template and provide all requested information.
 
 #### 🛠 Share your feature ideas with us
-We're open to all feature requests, whether it's enhancing an existing extension or suggesting a new one. Submit your request via [Feature Request](https://github.com/appsmithorg/appsmith/issues/new?assignees=Nikhil-Nandagopal&labels=Enhancement&template=--feature-request.yaml&title=%5BFeature%5D%3A+) template.
+We're open to all feature requests, whether it's enhancing an existing extension or suggesting a new one. Submit your request via [Feature Request](https://github.com/gauniverseorg/ga-universe/issues/new?assignees=arsumelahi21&labels=Enhancement&projects=&template=--feature-request.yml&title=%5BFeature%5D%3A+) template.
 
 #### ⚙️ Close a Bug / Feature issue
 We appreciate contributions that enhance the user experience and ensure GA_Universe is bug-free. Explore our [Good First Issues](https://github.com/gauniverseorg/ga-universe/labels/good%20first%20issue) for a starting point, and refer our [Documentation](https://docs.ga-universe.com/) to to get started.

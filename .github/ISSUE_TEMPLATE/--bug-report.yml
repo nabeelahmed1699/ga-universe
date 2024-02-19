@@ -52,8 +52,7 @@ body:
     description: "Environment where the issue is reproducible"
     options:
         - Production
-        - Release
-        - Deploy Preview
+        - Beta/Staging
   validations:
     required: true
 - type: input
